@@ -3,10 +3,6 @@ filetype off
 set backspace=2
 set mouse=a
 
-
-
-
-
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
